@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "app": "Lele y Juanito Colorear México",
+  "base_cdn": "https://zygnoleleyjuanito.github.io/lele-juanito-assets/",
+  "last_updated": "2026-11-08",
+  "seasons": {
+    "reyes_magos": [
+      {
+        "id": "reyes_magos_especial_01",
+        "title": "Los Reyes Magos y la Estrella",
+        "character": "especial",
+        "category": "Reyes Magos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_01.jpg",
+        "description": "Melchor, Gaspar y Baltazar siguiendo la Estrella de Belén."
+      },
+      {
+        "id": "reyes_magos_especial_02",
+        "title": "Lele y Juanito en Reyes Magos",
+        "character": "especial",
+        "category": "Reyes Magos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_02.jpg",
+        "description": "Lele y Juanito celebrando la llegada de los Reyes Magos."
+      },
+      {
+        "id": "reyes_magos_especial_03",
+        "title": "Juguetes Tradicionales de Madera",
+        "character": "especial",
+        "category": "Juguetes Típicos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_03.jpg",
+        "description": "Trompos, baleros y juguetes tradicionales mexicanos."
+      },
+      {
+        "id": "reyes_magos_especial_04",
+        "title": "Rosca de Reyes y Chocolate",
+        "character": "especial",
+        "category": "Reyes Magos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_04.jpg",
+        "description": "Tradicional rosca de reyes acompañada de chocolate caliente."
+      },
+      {
+        "id": "reyes_magos_especial_05",
+        "title": "Lele y Juanito Abriendo Regalos",
+        "character": "especial",
+        "category": "Reyes Magos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_05.jpg",
+        "description": "La alegría de abrir los regalitos de los Reyes Magos."
+      }
+    ],
+    "amor_amistad": [
+      {
+        "id": "amor_amistad_especial_01",
+        "title": "Corazón con Globos de Amor",
+        "character": "especial",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_especial_01.jpg",
+        "description": "Alegre ramillete de globos de fiesta en forma de corazón."
+      },
+      {
+        "id": "amor_amistad_especial_02",
+        "title": "Abrazo de Amor Lele y Juanito",
+        "character": "especial",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_especial_02.jpg",
+        "description": "Lele y Juanito dándose un cálido y tierno abrazo de amistad."
+      },
+      {
+        "id": "amor_amistad_especial_03",
+        "title": "Cartitas de la Amistad",
+        "character": "especial",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_especial_03.jpg",
+        "description": "Lele y Juanito compartiendo sobres decorados con cariño."
+      },
+      {
+        "id": "amor_amistad_juanito_01",
+        "title": "Juanito Entrega Flores a Lele",
+        "character": "juanito",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_juanito_01.jpg",
+        "description": "Juanito con un gran detalle floral mexicano para Lele."
+      },
+      {
+        "id": "amor_amistad_especial_04",
+        "title": "Papel Picado y Corazones",
+        "character": "especial",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_especial_04.jpg",
+        "description": "Guirnaldas artesanales de papel picado con motivos de amor."
+      },
+      {
+        "id": "amor_amistad_juanito_02",
+        "title": "Serenata con Guitarra",
+        "character": "juanito",
+        "category": "Amor y Amistad",
+        "path": "seasons/02_amor_amistad/amor_amistad_juanito_02.jpg",
+        "description": "Juanito entonando alegres melodías con su guitarrita de madera."
+      }
+    ],
+    "dia_madres": [
+      {
+        "id": "dia_madres_lele_01",
+        "title": "Lele: ¡Feliz Día Mamá!",
+        "character": "lele",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_lele_01.jpg",
+        "description": "Lele sosteniendo un letrero decorado con flores para mamá."
+      },
+      {
+        "id": "dia_madres_juanito_01",
+        "title": "Juanito con Ramo de Rosas",
+        "character": "juanito",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_juanito_01.jpg",
+        "description": "Juanito con un gran ramo de rosas aromáticas para mamá."
+      },
+      {
+        "id": "dia_madres_especial_01",
+        "title": "Tarjeta de Regalo para Mamá",
+        "character": "especial",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_especial_01.jpg",
+        "description": "Hermosa tarjeta hecha a mano con flores y amor filial."
+      },
+      {
+        "id": "dia_madres_lele_02",
+        "title": "Lele y Desayuno para Mamá",
+        "character": "lele",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_lele_02.jpg",
+        "description": "Lele preparando una charola dulce de fiesta para consentir a mamá."
+      },
+      {
+        "id": "dia_madres_especial_02",
+        "title": "Lele y Juanito Festejan a Mamá",
+        "character": "especial",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_especial_02.jpg",
+        "description": "Lele y Juanito juntos entregando regalitos a mamá."
+      },
+      {
+        "id": "dia_madres_especial_03",
+        "title": "Serenata con Mariachi para Mamá",
+        "character": "especial",
+        "category": "Día de las Madres",
+        "path": "seasons/05_dia_madres/dia_madres_especial_03.jpg",
+        "description": "Las mañanitas con sombrero de charro y música mexicana."
+      }
+    ],
+    "dia_padre": [
+      {
+        "id": "dia_padre_juanito_01",
+        "title": "Juanito: ¡Feliz Día Papá!",
+        "character": "juanito",
+        "category": "Día del Padre",
+        "path": "seasons/06_dia_padre/dia_padre_juanito_01.jpg",
+        "description": "Juanito con su cartel de fiesta felicitando a papá."
+      },
+      {
+        "id": "dia_padre_juanito_02",
+        "title": "Juanito Guitarra para Papá",
+        "character": "juanito",
+        "category": "Día del Padre",
+        "path": "seasons/06_dia_padre/dia_padre_juanito_02.jpg",
+        "description": "Juanito entonando alegres canciones con su guitarra para papá."
+      },
+      {
+        "id": "dia_padre_especial_01",
+        "title": "Trofeo al Mejor Papá del Mundo",
+        "character": "especial",
+        "category": "Día del Padre",
+        "path": "seasons/06_dia_padre/dia_padre_especial_01.jpg",
+        "description": "Lele y Juanito otorgando la copa dorada de campeón a papá."
+      },
+      {
+        "id": "dia_padre_juanito_03",
+        "title": "Abrazo de Charro con Papá",
+        "character": "juanito",
+        "category": "Día del Padre",
+        "path": "seasons/06_dia_padre/dia_padre_juanito_03.jpg",
+        "description": "Papá charro y Juanito en un abrazo de gran orgullo mexicano."
+      },
+      {
+        "id": "dia_padre_especial_02",
+        "title": "Lele y Juanito Regalo para Papá",
+        "character": "especial",
+        "category": "Día del Padre",
+        "path": "seasons/06_dia_padre/dia_padre_especial_02.jpg",
+        "description": "Caja de sorpresa con moño artesanal para papá."
+      }
+    ],
+    "dia_muertos": [
+      {
+        "id": "dia_muertos_especial_01",
+        "title": "Calaverita Dulce de Azúcar",
+        "character": "especial",
+        "category": "Día de Muertos",
+        "path": "seasons/08_dia_muertos/dia_muertos_especial_01.jpg",
+        "description": "Alegre calaverita decorada con flores y azúcar de colores."
+      }
+    ],
+    "navidad": [
+      {
+        "id": "navidad_especial_01",
+        "title": "Piñata Tradicional de Siete Picos",
+        "character": "especial",
+        "category": "Navidad y Tradición",
+        "path": "seasons/09_navidad/navidad_especial_01.jpg",
+        "description": "La clásica piñata de estrella con dulces y fruta de posada."
+      }
+    ]
+  }
+}
