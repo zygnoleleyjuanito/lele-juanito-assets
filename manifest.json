@@ -44,6 +44,14 @@
         "category": "Reyes Magos",
         "path": "seasons/01_reyes_magos/reyes_magos_especial_05.jpg",
         "description": "La alegría de abrir los regalitos de los Reyes Magos."
+      },
+      {
+        "id": "reyes_magos_especial_06",
+        "title": "Piñata Tradicional de Siete Picos",
+        "character": "especial",
+        "category": "Reyes Magos",
+        "path": "seasons/01_reyes_magos/reyes_magos_especial_06.jpg",
+        "description": "Hermosa piñata mexicana tradicional de estrella con siete picos."
       }
     ],
     "amor_amistad": [
@@ -190,20 +198,12 @@
     ],
     "dia_muertos": [
       {
-        "id": "dia_muertos_especial_01",
-        "title": "Calaverita Dulce de Azúcar",
-        "character": "especial",
-        "category": "Día de Muertos",
-        "path": "seasons/08_dia_muertos/dia_muertos_especial_01.jpg",
-        "description": "Alegre calaverita decorada con flores y azúcar de colores."
-      },
-      {
         "id": "dia_muertos_lele_01",
-        "title": "Lele Catrina Tradicional",
+        "title": "Lele Catrina con Cempasúchil",
         "character": "lele",
         "category": "Día de Muertos",
         "path": "seasons/08_dia_muertos/dia_muertos_lele_01.jpg",
-        "description": "Muñeca Lele caracterizada como elegante Catrina mexicana con flores."
+        "description": "Muñeca Lele como elegante Catrina mexicana con flores de cempasúchil."
       },
       {
         "id": "dia_muertos_juanito_01",
@@ -211,99 +211,115 @@
         "character": "juanito",
         "category": "Día de Muertos",
         "path": "seasons/08_dia_muertos/dia_muertos_juanito_01.jpg",
-        "description": "Juanito Catrín con su elegante traje de charro y maquillaje festivo."
+        "description": "Juanito Catrín con sombrero de charro y maquillaje festivo."
+      },
+      {
+        "id": "dia_muertos_especial_01",
+        "title": "Altar Tradicional de Día de Muertos",
+        "character": "especial",
+        "category": "Día de Muertos",
+        "path": "seasons/08_dia_muertos/dia_muertos_especial_01.jpg",
+        "description": "Altar tradicional mexicano con niveles, ofrendas, pan de muerto y veladoras."
       },
       {
         "id": "dia_muertos_especial_02",
-        "title": "Ofrenda y Altar Tradicional",
+        "title": "Pan de Muerto y Chocolate",
         "character": "especial",
         "category": "Día de Muertos",
         "path": "seasons/08_dia_muertos/dia_muertos_especial_02.jpg",
-        "description": "Altar tradicional mexicano con niveles, pan de muerto y veladoras."
-      },
-      {
-        "id": "dia_muertos_especial_03",
-        "title": "Cempasúchil y Velas de Fiesta",
-        "character": "especial",
-        "category": "Día de Muertos",
-        "path": "seasons/08_dia_muertos/dia_muertos_especial_03.jpg",
-        "description": "Camino de flores de cempasúchil que guían los corazones con luz y color."
+        "description": "Tradicional pan de muerto con azúcar y rica taza de chocolate caliente."
       }
     ],
     "navidad": [
       {
         "id": "navidad_especial_01",
-        "title": "Piñata Tradicional de Siete Picos",
+        "title": "Nacimiento Navideño Artesanal",
         "character": "especial",
         "category": "Navidad y Tradición",
         "path": "seasons/09_navidad/navidad_especial_01.jpg",
-        "description": "La clásica piñata de estrella con dulces y fruta de posada."
+        "description": "El pesebre navideño tradicional con figuras de barro artesanal."
       },
       {
         "id": "navidad_especial_02",
-        "title": "Nacimiento Tradicional Mexicano",
-        "character": "especial",
-        "category": "Navidad y Tradición",
-        "path": "seasons/09_navidad/navidad_especial_02.jpg",
-        "description": "El Niño Jesús, María y José en el pesebre artesanal mexicano."
-      },
-      {
-        "id": "navidad_especial_03",
-        "title": "Posada Navideña con Farolitos",
-        "character": "especial",
-        "category": "Navidad y Tradición",
-        "path": "seasons/09_navidad/navidad_especial_03.jpg",
-        "description": "Niños cantando posada con luces de bengala y farolitos artesanales."
-      },
-      {
-        "id": "navidad_especial_04",
         "title": "Árbol Navideño Mexicano",
         "character": "especial",
         "category": "Navidad y Tradición",
-        "path": "seasons/09_navidad/navidad_especial_04.jpg",
+        "path": "seasons/09_navidad/navidad_especial_02.jpg",
         "description": "Árbol de navidad decorado con esferas artesanales y nochebuenas."
       },
       {
-        "id": "navidad_especial_05",
-        "title": "Corona de Nochebuenas",
+        "id": "navidad_especial_03",
+        "title": "Piñata Navideña de Posada",
         "character": "especial",
         "category": "Navidad y Tradición",
-        "path": "seasons/09_navidad/navidad_especial_05.jpg",
-        "description": "Hermosa corona navideña con flores de nochebuena mexicanas."
+        "path": "seasons/09_navidad/navidad_especial_03.jpg",
+        "description": "La clásica piñata de siete picos llena de fruta y colación para la posada."
       },
       {
-        "id": "navidad_especial_06",
+        "id": "navidad_especial_04",
         "title": "Lele y Juanito Regalos Navideños",
         "character": "especial",
         "category": "Navidad y Tradición",
+        "path": "seasons/09_navidad/navidad_especial_04.jpg",
+        "description": "Lele y Juanito celebrando la Nochebuena junto a los regalos del arbolito."
+      },
+      {
+        "id": "navidad_especial_05",
+        "title": "Peregrinos Pidiendo Posada",
+        "character": "especial",
+        "category": "Navidad y Tradición",
+        "path": "seasons/09_navidad/navidad_especial_05.jpg",
+        "description": "Tradicional procesión de posada mexicana con cánticos y farolitos."
+      },
+      {
+        "id": "navidad_especial_06",
+        "title": "Corona Navideña con Nochebuenas",
+        "character": "especial",
+        "category": "Navidad y Tradición",
         "path": "seasons/09_navidad/navidad_especial_06.jpg",
-        "description": "Lele y Juanito celebrando la Nochebuena junto a los regalos."
+        "description": "Hermosa corona navideña decorada con nochebuenas y lazos festivos."
       }
     ],
     "verano": [
       {
         "id": "verano_especial_01",
-        "title": "Lele y Juanito de Vacaciones",
+        "title": "Castillo de Arena en la Playa",
         "character": "especial",
         "category": "Vacaciones de Verano",
         "path": "seasons/07_verano/verano_especial_01.jpg",
-        "description": "Lele y Juanito disfrutando una divertida tarde veraniega bajo el sol."
+        "description": "Lele y Juanito construyendo un gran castillo de arena en la playa."
+      },
+      {
+        "id": "verano_especial_02",
+        "title": "Lele y Juanito Volando Papalote",
+        "character": "especial",
+        "category": "Vacaciones de Verano",
+        "path": "seasons/07_verano/verano_especial_02.jpg",
+        "description": "Lele y Juanito corriendo en el campo mientras vuelan un colorido papalote."
+      },
+      {
+        "id": "verano_especial_03",
+        "title": "Picnic y Día de Campo Mexicano",
+        "character": "especial",
+        "category": "Vacaciones de Verano",
+        "path": "seasons/07_verano/verano_especial_03.jpg",
+        "description": "Lele y Juanito disfrutando una rica tarde de picnic bajo la sombra del árbol."
       },
       {
         "id": "verano_juanito_01",
-        "title": "Juanito Volando Papalote",
+        "title": "Juanito con Flotador de Patito",
         "character": "juanito",
         "category": "Vacaciones de Verano",
         "path": "seasons/07_verano/verano_juanito_01.jpg",
-        "description": "Juanito corriendo en el campo mientras vuela su gran cometa de papel."
+        "description": "Juanito nadando feliz con su salvavidas de patito bajo el sol."
       },
       {
-        "id": "verano_lele_01",
-        "title": "Lele en Día de Campo",
-        "character": "lele",
+        "id": "verano_especial_04",
+        "title": "Puesto de Aguas Frescas y Frutas",
+        "character": "especial",
         "category": "Vacaciones de Verano",
-        "path": "seasons/07_verano/verano_lele_01.jpg",
-        "description": "Lele con canasta artesanal disfrutando un hermoso día al aire libre."
+        "path": "seasons/07_verano/verano_especial_04.jpg",
+        "description": "Lele y Juanito compartiendo deliciosas aguas frescas de horchata, jamaica y limón."
       }
     ]
   }
